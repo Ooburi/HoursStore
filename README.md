@@ -15,4 +15,4 @@ Project targets **.NET 5.0**
 SQL Server
 
 ## Screenshots
-(Docs/screen.jpg)
+[(Docs/screen.jpg)]
